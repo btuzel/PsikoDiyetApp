@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_iletisim"
+    tools:ignore="UnusedNavigation">
+
+    <fragment
+        android:id="@+id/navigation_iletisim"
+        android:name="com.example.psikodiyetapp.Fragments.IletisimFragment"
+        android:label="İletişim"
+        tools:layout="@layout/iletisim_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_psikolog"
+        android:name="com.example.psikodiyetapp.Fragments.PsikologFragment"
+        android:label="Psikolog"
+        tools:layout="@layout/psikolog_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_biz_kimiz"
+        android:name="com.example.psikodiyetapp.Fragments.BizKimizFragment"
+        android:label="BizKimiz"
+        tools:layout="@layout/biz_kimiz_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_diyetisyen"
+        android:name="com.example.psikodiyetapp.Fragments.DiyetisyenFragment"
+        android:label="Diyetisyen"
+        tools:layout="@layout/diyetisyen_fragment"/>
+
+    <fragment
+        android:id="@+id/navigation_hekim"
+        android:name="com.example.psikodiyetapp.Fragments.HekimFragment"
+        android:label="Hekim"
+        tools:layout="@layout/hekim_fragment"/>
+
+
+</navigation>

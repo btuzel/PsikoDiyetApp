@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PsikoDiyetApp</string>
+    <string name="title_activity_bottom_nav">BottomNavActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro_sentence">Merhaba, ben Özgün Özerk, dünyadaki en iyi piyanist olduğumu bilmeyen kalmadı herhalde, aynı zamanda bir sihirbaz ve yazarım.</string>
+    <string name="click_for_more">Daha fazlası için tıklayın</string>
+    <string name="question_one">Kitabımı okudunuz mu?</string>
+    <string name="answer_one">Elbette.</string>
+    <string name="answer_2">Şaka mı bu?</string>
+    <string name="answer_3">Okumayan kalmadı.</string>
+    <string name="answer_4">askfnsa.</string>
+    <string name="see_diet_plan">Diyet Planınızı görün.</string>
+    <string name="weight">Kilo</string>
+    <string name="height">Boy:</string>
+    <string name="weight_text">Yaş:</string>
+    <string name="name">İsim</string>
+    <string name="name_surname">Ad-Soyad</string>
+    <string name="age">Yaş</string>
+    <string name="weight_text2">Kilo:</string>
+    <string-array name="dietplans">
+        <item>Bize kalırsa sizin uymanız gereken diyet planı kalori eksikliğinizi karbonhidrat protein yağ kütle yaş ortalamasındaki
+    kilo ve protein karbonhidrat fibre gelecekte 2000  gereken diyet planı kalori eksikliğinizi karbonhidrat protein yağ kütle yaş ortalamasındaki
+    kilo ve protein karbonhidrat fibre gelecekte 2000</item>
+        <item>
+            Etiam nec velit sit amet lectus malesuada consectetur. Sed congue lectus porta ante lobortis ultricies. Etiam erat ex, efficitur et neque id, ornare mattis eros. Donec ante mauris, lacinia in arcu vel, blandit laoreet enim. Sed tincidunt nisl in interdum luctus. Quisque eu dui ac felis tristique dictum.
+        </item>
+        <item>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum faucibus enim mauris, in vestibulum risus malesuada nec. Aliquam sed egestas tortor. Aenean at ex aliquam, tempus elit a, eleifend dolor. Nunc faucibus tincidunt tristique. Suspendisse ut lectus et turpis pharetra tristique. Ut molestie sodales nunc, at auctor tellus aliquam id. Donec at accumsan erat, at pretium diam.
+        </item>
+        <item>test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test </item>
+    </string-array>
+
+</resources>
